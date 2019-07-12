@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: (A)AD Dev
 description: (Azure) Active Directory and O365 development and automation
+baseurl: /aaddev
