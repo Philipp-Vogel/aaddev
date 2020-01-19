@@ -1,6 +1,4 @@
-## (Azure) Active Directory and O365 development
-
-# Posts
+# Blog Posts
 
 {% for post in site.posts %}
 <div>
