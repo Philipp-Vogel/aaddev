@@ -20,5 +20,5 @@ Get-ADObject -Filter "proxyAddresses -eq 'smtp:firstname.lastname@company.com'"
 ## Exchange Powershell
 The Exchange Powershell Cmdlets also search for secondary E-Mail addresses when using the -Identity parameter
 ```powershell
-Get-Recipient -Identity firstname.lastname@company.com
+Get-Recipient -Identity "firstname.lastname@company.com"
 ```
